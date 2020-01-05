@@ -1,2 +1,2 @@
-# P5-Sketches
-Random con  p5.js 
+# Organizando Barras mediante ordenamiento de burbujas
+# Organizing Bars with BubbleSort
